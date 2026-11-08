@@ -49,12 +49,15 @@ export const formatRupiah = (n: number) =>
 
 export const galleryItems = [
   { src: "/images/gallery/papan-nama-malam.jpg", alt: "Papan nama Angkringan Ndeso menyala di bawah lampu gantung pada malam hari", caption: "Papan nama Angkringan Ndeso", position: "50% 30%" },
-  { src: "/images/gallery/gazebo-bambu.jpg", alt: "Gazebo bambu beratap rumbia dengan meja lesehan", caption: "Gazebo bambu bersuasana tradisional", position: "50% 62%" },
+  { src: "/images/gallery/kumpul-komunitas.jpg", alt: "Rombongan pengunjung berfoto bersama di depan papan nama Angkringan Ndeso", caption: "Kumpul bersama komunitas", position: "50% 50%" },
   { src: "/images/gallery/aneka-sate.jpg", alt: "Nampan berisi aneka sate, telur puyuh, dan sate usus", caption: "Aneka sate angkringan", position: "50% 38%" },
-  { src: "/images/gallery/gerobak-angkringan.jpg", alt: "Meja angkringan berisi nampan sate dan gorengan dengan lampu hangat", caption: "Meja angkringan", position: "50% 70%" },
-  { src: "/images/gallery/area-duduk.jpg", alt: "Area duduk bambu dan kayu dengan taman batu putih", caption: "Area duduk nyaman", position: "50% 50%" },
+  { src: "/images/gallery/gazebo-bambu.jpg", alt: "Gazebo bambu beratap rumbia dengan meja lesehan", caption: "Gazebo bambu bersuasana tradisional", position: "50% 62%" },
+  { src: "/images/gallery/kaos-ndeso.jpg", alt: "Tim Angkringan Ndeso memakai kaos berlogo di dekat meja gorengan", caption: "Kaos Angkringan Ndeso", position: "50% 62%" },
   { src: "/images/gallery/nasi-sambel-sate.jpg", alt: "Nasi sambal bandeng, gorengan, dan sate usus di piring enamel", caption: "Nasi sambal dan sate usus", position: "50% 38%" },
+  { src: "/images/gallery/meja-gazebo.jpg", alt: "Pengunjung menikmati minuman hangat di meja kayu dekat gazebo bambu", caption: "Ngobrol santai di gazebo", position: "50% 68%" },
+  { src: "/images/gallery/area-duduk.jpg", alt: "Area duduk bambu dan kayu dengan taman batu putih", caption: "Area duduk nyaman", position: "50% 50%" },
+  { src: "/images/gallery/kumpul-malam.jpg", alt: "Pengunjung berkumpul di area lesehan bambu pada malam hari", caption: "Malam penuh keakraban", position: "50% 40%" },
+  { src: "/images/gallery/gerobak-angkringan.jpg", alt: "Meja angkringan berisi nampan sate dan gorengan dengan lampu hangat", caption: "Meja angkringan", position: "50% 70%" },
+  { src: "/images/gallery/air-mancur.jpg", alt: "Pengunjung berfoto di depan air mancur dan gazebo bambu", caption: "Taman air mancur", position: "50% 45%" },
   { src: "/images/gallery/taman-batu-putih.jpg", alt: "Taman batu putih dengan air mancur kecil dan gazebo bambu", caption: "Taman batu putih", position: "50% 60%" },
-  { src: "/images/gallery/suasana-pengunjung.jpg", alt: "Pengunjung bersantai di area lesehan angkringan", caption: "Berkumpul bersama", position: "50% 55%" },
-  { src: "/images/gallery/pintu-masuk.jpg", alt: "Gerbang masuk Angkringan Ndeso dengan papan Sugeng Rawuh", caption: "Sugeng Rawuh", position: "50% 55%" },
 ];
